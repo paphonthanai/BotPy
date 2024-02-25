@@ -1,6 +1,6 @@
-MyCient = "name"
-MyEmail = "name@hotmail.com"
-MyPassWord = "154N" 
+MyCient = "nonamename"
+MyEmail = "teerawut_name@hotmail.com"
+MyPassWord = "1549900401771Name" 
 
 
 from selenium import webdriver
